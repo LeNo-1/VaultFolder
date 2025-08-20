@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: xruzm-tgj3d
+created: 2025-08-20T22:43:18+01:00

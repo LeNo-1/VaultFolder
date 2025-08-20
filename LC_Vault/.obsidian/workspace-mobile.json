@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "ddd1c20ce9de47ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "2734982b058bb8b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04f6728ce68227bf",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -1621.9604966639572,
+                  "y": -45.21375714163554,
+                  "zoom": -1.1668973632898452
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "a58c297b7a9838e5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -1520,
+                  "y": -400,
+                  "zoom": -1.9285089576290306
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "755c0bbeb70becf2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f3203a297f6f8e64",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "1670737f4643c6a6",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#HOMEPAGE",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "7a78be0739619070",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "7846b7b1309dd0e1",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b29280d275f1fc4e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "45796af1a7fc7f16",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Transport in the Flowering Plant.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "cbfa91071578d1b3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Transport in the Flowering Plant.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "e110eb3e37b848ac",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Transport in the Flowering Plant.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "f466b6662c13b304",
+        "type": "leaf",
+        "state": {
+          "type": "smart-connections-view",
+          "state": {},
+          "icon": "smart-connections",
+          "title": "Smart Connections"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "workspaces:Manage workspace layouts": false,
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": false
+    }
+  },
+  "active": "a58c297b7a9838e5",
+  "lastOpenFiles": [
+    "30 - Permanent/Academics/Chapters/Geometrical Optics.md",
+    "00 - M.O.C/4 -Physics-.md",
+    "00 - M.O.C/1 -App. Maths-.md",
+    "30 - Permanent/Academics/Chapters/Algebra 2.md",
+    "00 - M.O.C/5 -Maths-.md",
+    "Transport in the Flowering Plant.md",
+    "Untitled.canvas",
+    "50 - Daily/2025/08/ 2025-08-11 Mon.md",
+    "50 - Daily/2025/08",
+    "20 - Resources/Face book/Random.md",
+    "20 - Resources/Face book/Names at school.md",
+    "20 - Resources/Face book/The Lodge.md",
+    "00 - M.O.C/{The Guide}.md",
+    "20 - Resources/Face book",
+    "00 - M.O.C/Me.md",
+    "50 - Daily/2025/06/ 2025-06-16 Mon.md",
+    "Untitled",
+    "30 - Permanent/Life/Self Study/Calculus.md",
+    "50 - Daily/2025/06",
+    "Vault.md",
+    "30 - Permanent/Life/Self Study/Self Study.md",
+    "30 - Permanent/Life/Life.md",
+    "20 - Resources/Music Discovery.md",
+    "30 - Permanent/Life/Self Study",
+    "00 - M.O.C/2 -Biology-.md",
+    "30 - Permanent/Chapters/Monera (Prokaryote).md",
+    "Classification and Viruses.md",
+    "Homeostasis and Gaseous Exchange.md",
+    "Monera (Prokaryote).md",
+    "30 - Permanent/Chapters/Transport in Humans.md",
+    "30 - Permanent/Chapters/Fungi and Protists.md",
+    "30 - Permanent/Chapters/Scientific Method.md",
+    "Spanish_oral",
+    "Tags",
+    "image-1.png",
+    "image.png",
+    "99 - Meta/Images/EN-EX-40634415.pdf",
+    "02 - Areas/Literature/Bookshelf.canvas"
+  ]
+}
