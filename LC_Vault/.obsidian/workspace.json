@@ -161,8 +161,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
             }
           },
           {
@@ -171,20 +171,30 @@
             "state": {
               "type": "smart-lookup-view",
               "state": {},
-              "icon": "search",
-              "title": "Smart Lookup"
+              "icon": "lucide-ghost",
+              "title": "smart-lookup-view"
+            }
+          },
+          {
+            "id": "778e3949d462f821",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 666.5,
-    "collapsed": true
+    "width": 666.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -197,7 +207,8 @@
       "omnisearch:Omnisearch": false,
       "smart-connections:Open: Smart Chat": false,
       "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": true
+      "smart-connections:Smart Connections: Open random connection": true,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "3ff43f725f3b57a5",
