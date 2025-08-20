@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 666.5
+    "width": 514.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ff43f725f3b57a5",
+  "active": "778e3949d462f821",
   "lastOpenFiles": [
     "Untitled.canvas",
     "30 - Permanent/Academics/Binder/'Mid-term Break' by Seamus Heaney.md",
