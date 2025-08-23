@@ -18,6 +18,7 @@
     "Period",
     "Orbit"
   ],
-  "readableLineLength": true,
-  "showInlineTitle": true
+  "readableLineLength": false,
+  "showInlineTitle": true,
+  "showUnsupportedFiles": true
 }

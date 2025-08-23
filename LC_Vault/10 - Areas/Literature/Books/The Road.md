@@ -1,23 +1,22 @@
 ---
 Author:
   - Cormac McCarthy
-Status:
-  - reading
+Status: reading
 Topics:
   - Fiction
 Cover: http://books.google.com/books/content?id=GwlKPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 Format: Kindle
-tags: 
-Date Finished: 
+tags:
+Date Finished:
 Class: Class
-Rating: 
-Recommendation: 
-Complete: 
+Rating:
+  - ⭐⭐⭐⭐
+Recommendation: 🔎🔎🔎🔎🔎
+Complete: "true"
 cssclasses:
   - cards
   - cards-cover
 Priotity:
-  - high
 ---
 
 ```dataview

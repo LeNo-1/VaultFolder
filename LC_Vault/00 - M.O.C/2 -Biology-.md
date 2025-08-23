@@ -4,7 +4,7 @@ tags:
 Teacher: Ms. Brody
 sticker: emoji//1fac0
 ---
-### Chapters (5th Yr.)
+### Chapters (7th Yr.)
 1. [[Scientific Method]] —
 2. [[The Characteristics of Life]]
 3. [[Food + Biomolecules]]

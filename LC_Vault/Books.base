@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: Table
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.inFolder("10 - Areas/Literature/Books")
+    order:
+      - file.name
+      - Author
+      - Rating
+      - Status
+    cardSize: 120
+    imageFit: ""
+    image: note.Cover
+    imageAspectRatio: 1.4
