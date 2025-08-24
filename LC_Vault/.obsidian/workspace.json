@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9dc5cd22d8ee792c",
+        "id": "5228938fb4088c07",
         "type": "tabs",
         "children": [
           {
-            "id": "96b76caffd11c58c",
+            "id": "20d0e079bbab9819",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - M.O.C/2 -Biology-.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2 -Biology-"
-            }
-          },
-          {
-            "id": "564a5a9fc658b456",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - M.O.C/3 -Comp. Sci.-.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "3 -Comp. Sci.-"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -95,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c55bf128edf3f20e",
@@ -200,16 +179,39 @@
             }
           },
           {
-            "id": "92f0889777f282b9",
+            "id": "871ee4c6b925f061",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "localgraph",
               "state": {
-                "file": "Books.base",
-                "viewName": "View"
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "Books"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -237,22 +239,27 @@
       "smart-connections:Smart Connections: Open random connection": true,
       "obsidian-git:Open Git source control": false,
       "audio-recorder:Start/stop recording": false,
-      "random-note:Open random note": false,
-      "zk-prefixer:Create new unique note": false,
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
   "active": "778e3949d462f821",
   "lastOpenFiles": [
-    "00 - M.O.C/3 -Comp. Sci.-.md",
-    "00 - M.O.C/2 -Biology-.md",
-    "Untitled.md",
+    "00 - M.O.C/8 -Spanish-.md",
+    "00 - M.O.C/00 - M.O.C.md",
     "00 - M.O.C/1 -App. Maths-.md",
+    "30 - Permanent/Academics/Branches/Heaney Mind Map.canvas",
+    "99 - Meta/Notebook Background Css.md",
+    "10 - Areas/Literature/Library.md",
+    "99 - Meta/Utility/Inbox.md",
+    "Books.base",
+    "10 - Areas/Literature/Books/Untitled.md",
+    "10 - Areas/Literature/Books/A Game of Thrones (A Song of Ice and Fire) - George RR Martin.md",
+    "00 - M.O.C/2 -Biology-.md",
+    "00 - M.O.C/3 -Comp. Sci.-.md",
+    "Untitled.md",
     "Transport in the Flowering Plant.md",
     "The Blood.md",
-    "Books.base",
     "10 - Areas/Literature/Books/The Road.md",
-    "10 - Areas/Literature/Books/A Game of Thrones (A Song of Ice and Fire) - George RR Martin.md",
     "10 - Areas/Literature/Books/Fahrenheit 451.md",
     "10 - Areas/Literature/Books/The Laws of Human Nature.md",
     "10 - Areas/Literature/Bookshelf.canvas",
@@ -260,11 +267,9 @@
     "10 - Areas/Literature/Books/Atomic Habits.md",
     "10 - Areas/Literature/Books/Blood Meridian.md",
     "10 - Areas/Literature/To Be Read.md",
-    "10 - Areas/Literature/Library.md",
     "10 - Areas/Literature/Done.md",
     "30 - Permanent/Academics/Binder/Vocabulary -  Unidad 3.md",
     "30 - Permanent/Academics/Binder/Recording 20250823210233.m4a",
-    "30 - Permanent/Academics/Branches/Heaney Mind Map.canvas",
     "30 - Permanent/Academics/Chapters/Algebra 2.md",
     "30 - Permanent/Academics/Binder/Sheamus Heaney.md",
     "30 - Permanent/Academics/Binder/Academics/Academics.md",
@@ -273,11 +278,6 @@
     "99 - Meta/Images/download 1.jpg",
     "99 - Meta/Images/image 1.png",
     "30 - Permanent/Academics/Chapters/Work, Energy and Power.md",
-    "30 - Permanent/Academics/Chapters/Work, Energy and Power.sync-conflict-20250114-212557-5KR6ZIC.md",
-    "30 - Permanent/Academics/Binder/'Mid-term Break' by Seamus Heaney.md",
-    "30 - Permanent/Academics/Binder/El pretérito indefinido.md",
-    "30 - Permanent/Academics/Binder/'A Constable Calls' by Seamus Heaney.md",
-    "30 - Permanent/Academics/Binder/'A Call' by Seamus Heaney.md",
     "99 - Meta/Images/Covers",
     "Excalidraw",
     "Untitled",

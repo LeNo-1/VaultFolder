@@ -28,17 +28,10 @@
             "id": "a58c297b7a9838e5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -1520,
-                  "y": -400,
-                  "zoom": -1.9285089576290306
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
@@ -176,6 +169,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-book-search-plugin:Create new book note": false,
       "bases:Create new base": false,
       "workspaces:Manage workspace layouts": false,
       "markdown-importer:Open format converter": false,
@@ -192,7 +188,7 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "a58c297b7a9838e5",
+  "active": "f3203a297f6f8e64",
   "lastOpenFiles": [
     "30 - Permanent/Academics/Chapters/Geometrical Optics.md",
     "00 - M.O.C/4 -Physics-.md",

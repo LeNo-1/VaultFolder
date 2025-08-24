@@ -1,8 +1,8 @@
 views:
   - type: table
     name: Table
-  - type: cards
-    name: View
+  - type: table
+    name: Books
     filters:
       and:
         - file.inFolder("10 - Areas/Literature/Books")
