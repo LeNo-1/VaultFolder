@@ -1,5 +1,10 @@
 {
-	"nodes":[],
+	"nodes":[
+		{"id":"d15597d91006b215","type":"file","file":"30 - Permanent/Academics/Chapters/Vectors.md","x":-520,"y":120,"width":400,"height":620},
+		{"id":"ed383da98bddcc0e","type":"file","file":"30 - Permanent/Academics/Chapters/Newton's Laws and Connected Particles.md","x":-120,"y":120,"width":400,"height":620},
+		{"id":"b01ae9d166e9c994","type":"file","file":"30 - Permanent/Academics/Chapters/Networks and Graphs.md","x":280,"y":120,"width":400,"height":620},
+		{"id":"134db087e21c057c","type":"file","file":"30 - Permanent/Academics/Chapters/Work, Energy and Power.md","x":680,"y":120,"width":400,"height":620}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",

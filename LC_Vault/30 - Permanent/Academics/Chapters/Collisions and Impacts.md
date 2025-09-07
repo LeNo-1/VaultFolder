@@ -24,8 +24,8 @@ $$-e=\frac{v_2-v_1}{u_2-u_1}$$
 
 $$0\le e\le 1$$
 # Oblique Collisions
-##### $$a\cdot b=|a||b|\cos \theta \newline$$
-##### $$\cos \theta =\frac{a \cdot b}{|a||b|}$$
+ $$a\cdot b=|a||b|\cos \theta \newline$$
+$$\cos \theta =\frac{a \cdot b}{|a||b|}$$
 ### How To Answer
  1. **Identify the Line of Centres**
 

@@ -11,8 +11,8 @@
 
 ## Formulas
 
-## $s=ut+\frac1 2at^2$
+$$s=ut+\frac1 2at^2$$
 
-## $v=u+at$
+$$v=u+at$$
 
-## $v^2=u^2+2as$
+$$v^2=u^2+2as$$

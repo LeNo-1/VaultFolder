@@ -11,10 +11,17 @@
             "id": "9f970af7e77190ce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "30 - Permanent/Academics/Branches/App Maths Mind Map.canvas",
+                "viewState": {
+                  "x": 203.25187378443093,
+                  "y": 599.9453480375614,
+                  "zoom": -0.6666666666666665
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "App Maths Mind Map"
             }
           }
         ]
@@ -223,6 +230,7 @@
   },
   "active": "9f970af7e77190ce",
   "lastOpenFiles": [
+    "30 - Permanent/Academics/Branches/Heaney Mind Map.canvas",
     "30 - Permanent/Academics/Branches/App Maths Mind Map.canvas",
     "00 - M.O.C/1 -App. Maths-.md",
     "App Maths Mind Map.md",
@@ -241,7 +249,6 @@
     "30 - Permanent/Academics/Grinds/Spanish Grinds/Week 1 - Day 1.md",
     "30 - Permanent/Academics/Binder/El pretérito indefinido.md",
     "00 - M.O.C/8 -Spanish-.md",
-    "30 - Permanent/Academics/Branches/Heaney Mind Map.canvas",
     "99 - Meta/Other Files/H2a.pdf",
     "50 - Daily/Invalid date.md",
     "99 - Meta/Images/diagram-20250903.svg",
