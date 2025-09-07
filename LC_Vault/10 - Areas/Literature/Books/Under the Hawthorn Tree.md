@@ -3,17 +3,17 @@ Author:
   - Marita Conlon-McKenna
 Status: Done
 Topics:
-  - ""
+  - Fiction
 Cover: http://books.google.com/books/content?id=Gxb7vQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 Format: Kindle
-tags: 
-Date Finished: 
+tags:
+Date Finished:
 Class: Class
 Rating:
   - ⭐⭐⭐⭐⭐
-Recommendation: 🔎🔎🔎🔎🔎
+Recommendation: 🔎🔎🔎🔎
 Complete: "true"
-Priotity: 
+Priotity:
 cssclasses:
   - cards
   - cards-cover

@@ -19,4 +19,6 @@ Priotity:
   - high
 Rating:
 Status: reading
+Topics:
+  - Fiction
 ---

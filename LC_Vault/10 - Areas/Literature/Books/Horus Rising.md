@@ -6,12 +6,12 @@ Topics:
 Status: Done
 Cover: http://books.google.com/books/content?id=2R_3oAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 Format: Kindle
-tags: 
-Date Finished: 
+tags:
+Date Finished:
 Class: Class
 Rating:
   - ⭐⭐⭐⭐
-Recommendation: 🔎
+Recommendation: 🔎🔎🔎
 Complete: "true"
 cssclasses:
   - cards

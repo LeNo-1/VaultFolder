@@ -1,10 +1,8 @@
 ---
 tags:
-  - spanishMain
+  - Spanish
 Teacher: Mr. O'Grady
-sticker: emoji//1f483
 ---
-
 ### Chapters (5th Yr.)
 - [[Spanish Oral]]
 	- [[Roleplays]]

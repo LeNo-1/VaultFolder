@@ -5,7 +5,7 @@
   "content": "",
   "useDefaultFrontmatter": true,
   "defaultFrontmatterKeyType": "Camel Case",
-  "templateFile": "",
+  "templateFile": "99 - Meta/Templates/Books Template.md",
   "serviceProvider": "google",
   "naverClientId": "",
   "naverClientSecret": "",
@@ -13,7 +13,7 @@
   "apiKey": "",
   "openPageOnCompletion": true,
   "showCoverImageInSearch": true,
-  "enableCoverImageSave": false,
+  "enableCoverImageSave": true,
   "enableCoverImageEdgeCurl": true,
   "coverImagePath": "99 - Meta/Images/Covers",
   "askForLocale": true

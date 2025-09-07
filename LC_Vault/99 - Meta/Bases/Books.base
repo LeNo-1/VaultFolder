@@ -1,0 +1,26 @@
+filters:
+  and:
+    - file.inFolder("10 - Areas/Literature/Books")
+formulas:
+  Untitled: ""
+views:
+  - type: cards
+    name: Books
+    filters:
+      and:
+        - file.inFolder("10 - Areas/Literature/Books")
+    order:
+      - file.name
+      - Author
+      - Topics
+      - Rating
+      - Status
+      - Recommendation
+      - Date Finished
+    sort:
+      - property: file.ctime
+        direction: DESC
+    cardSize: 120
+    imageFit: ""
+    image: note.Cover
+    imageAspectRatio: 1.4

@@ -86,6 +86,12 @@
       },
       "obsidian-to-anki-plugin": {
         "startupType": "disabled"
+      },
+      "folder-notes": {
+        "startupType": "instant"
+      },
+      "simple-note-review": {
+        "startupType": "instant"
       }
     },
     "loadOrder": []
@@ -165,6 +171,9 @@
         "startupType": "instant"
       },
       "smart-connections": {
+        "startupType": "instant"
+      },
+      "folder-notes": {
         "startupType": "instant"
       }
     },

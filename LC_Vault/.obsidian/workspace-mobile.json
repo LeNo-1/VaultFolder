@@ -11,17 +11,15 @@
             "id": "04f6728ce68227bf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -1621.9604966639572,
-                  "y": -45.21375714163554,
-                  "zoom": -1.1668973632898452
-                }
+                "file": "30 - Permanent/Academics/Grinds/Spanish Grinds/2025-08-30 {First Class}.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "2025-08-30 {First Class}"
             }
           },
           {
@@ -34,8 +32,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +142,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Transport in the Flowering Plant.md",
+            "file": "00 - M.O.C/5 -Maths-.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -160,8 +157,8 @@
         "state": {
           "type": "smart-connections-view",
           "state": {},
-          "icon": "smart-connections",
-          "title": "Smart Connections"
+          "icon": "lucide-ghost",
+          "title": "smart-connections-view"
         }
       }
     ],
@@ -182,19 +179,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false,
-      "smart-connections:Open: Smart Chat": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "f3203a297f6f8e64",
   "lastOpenFiles": [
+    "00 - M.O.C/5 -Maths-.md",
+    "40 - Fleeting/2025- 08-27 9:03 pm .md",
+    "00 - M.O.C/00 - M.O.C.md",
     "30 - Permanent/Academics/Chapters/Geometrical Optics.md",
     "00 - M.O.C/4 -Physics-.md",
     "00 - M.O.C/1 -App. Maths-.md",
     "30 - Permanent/Academics/Chapters/Algebra 2.md",
-    "00 - M.O.C/5 -Maths-.md",
     "Transport in the Flowering Plant.md",
     "Untitled.canvas",
     "50 - Daily/2025/08/ 2025-08-11 Mon.md",
@@ -220,8 +216,6 @@
     "Homeostasis and Gaseous Exchange.md",
     "Monera (Prokaryote).md",
     "30 - Permanent/Chapters/Transport in Humans.md",
-    "30 - Permanent/Chapters/Fungi and Protists.md",
-    "30 - Permanent/Chapters/Scientific Method.md",
     "Spanish_oral",
     "Tags",
     "image-1.png",

@@ -10,6 +10,6 @@
     "popups"
   ],
   "nativeMenus": true,
-  "showRibbon": false,
+  "showRibbon": true,
   "showViewHeader": false
 }

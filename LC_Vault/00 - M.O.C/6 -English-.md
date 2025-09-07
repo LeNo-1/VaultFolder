@@ -57,3 +57,9 @@ _ [[Act 2 Scene 4 - Outside Macbeths Castle ]]
 ## Poets
 [[Sheamus Heaney]]
 [[Elizabeth Bishop]]
+
+# Exam Paper Breakdown
+#### Paper 1
+**Total Marks:** 200
+**Total Time:** 2 Hrs 50 Mins (170mins)
+Q1: Reading Comprehension 

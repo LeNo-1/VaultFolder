@@ -11,7 +11,7 @@ Date Finished:
 Class: Class
 Rating:
   - ⭐⭐⭐⭐
-Recommendation: 🔎🔎🔎🔎🔎
+Recommendation: 🔎🔎🔎🔎
 Complete: "true"
 cssclasses:
   - cards

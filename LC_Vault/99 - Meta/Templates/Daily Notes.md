@@ -1,12 +1,14 @@
 ---
-Study: 
-"|->Length": 
+Study:
+"|->Length":
 Workout: false
+Words:
 ---
 ## Tasks
 ### Completed
 ```tasks
 done on {{date}}
+due on {{date}}
 ```
 
 ### Created
@@ -16,20 +18,5 @@ done on {{date}}
 ---
 # Journal
 ### School
-###### 
-
-#####
-
-######
-
-######
-
-######
-
-###### 
-
-######
-
-######
 
 ### Personal

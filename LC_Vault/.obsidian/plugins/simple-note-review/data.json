@@ -1,0 +1,19 @@
+{
+  "reviewedFieldName": "reviewed",
+  "reviewFrequencyFieldName": "review-frequency",
+  "noteSets": [
+    {
+      "id": "5b19fe1e-b2ce-458a-9edf-d1ad61ebc17b",
+      "sortOrder": 1,
+      "validationErrors": [
+        "Noteset review queue is empty. If this seems wrong, try resetting queue and/or checking noteset rules.",
+        "Noteset rules are incorrect. Please check noteset settings."
+      ]
+    }
+  ],
+  "currentNoteSetId": null,
+  "openNextNoteAfterReviewing": true,
+  "openRandomNote": false,
+  "useReviewFrequency": false,
+  "unreviewedNotesFirst": false
+}

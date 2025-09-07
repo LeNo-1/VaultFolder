@@ -16,3 +16,5 @@
 16. [LLMs From Scratch](https://github.com/rasbt/LLMs-from-scratch)
 17. [First Contributions](https://github.com/firstcontributions/first-contributions)
 18. [Hacktoberfest](https://github.com/hacktoberfest)
+#### Non-Git Sites
+- [Roadmap.sh](https://roadmap.sh/)

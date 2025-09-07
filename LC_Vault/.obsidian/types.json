@@ -63,6 +63,8 @@
     "TQ_show_task_count": "checkbox",
     "TQ_show_tree": "checkbox",
     "TQ_show_urgency": "checkbox",
-    "autoscroll-speed": "number"
+    "autoscroll-speed": "number",
+    "Last Read": "date",
+    "Started": "date"
   }
 }
