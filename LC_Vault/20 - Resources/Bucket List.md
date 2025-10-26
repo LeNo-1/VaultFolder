@@ -20,7 +20,7 @@ Bedroom
 - [[Posters]]
 - [[silk pillowcase €30-40]]
 - [[Weighted Blanket]]
-- [[20 - Resources/Office Chair €60]]
+- [[Office Chair €60]]
 
 Misc.
 ---
