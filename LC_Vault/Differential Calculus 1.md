@@ -51,4 +51,4 @@ $$f(x)=\frac{u(x)}{v(x)}\to f\prime(x)=\frac{v(x)u\prime(x)-u(x)v\prime(x)}{[v(x
 | Sin(x) | $Cos(x)$   |
 | Cos(x) | $-Sin(x)$  |
 | Tan(x) | $Sec^2(x)$ |
-  
+

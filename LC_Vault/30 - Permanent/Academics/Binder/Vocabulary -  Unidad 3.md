@@ -15,8 +15,7 @@
 | *el ano pasado*                   | last year                         |
 | *hace dos dias*                   | 2 days ago                        |
 | *hace una semana*                 | a week ago                        |
-|                                   |                                   |
-|                                   |                                   |
+
 
 ## Los Jovenes
 

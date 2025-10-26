@@ -2,7 +2,6 @@
 tags:
   - englishMain
 Teacher: Ms. Meilia
-sticker: emoji//1f4ac
 ---
 
 # Chapters (5th Yr.)
@@ -51,7 +50,7 @@ _ [[Act 2 Scene 4 - Outside Macbeths Castle ]]
 ---- [[Act 5 Scene 9 - Inside Macbeths Castle]]
 
 ### Character Study
-[[Study - MacBeth]]
+[[Char. Study - Macbeth]]
 [[Lady Macbeth]]
 
 ## Poets

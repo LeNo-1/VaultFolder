@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "174cec5bffd2db1c",
+        "id": "f4f2d2eacfa34280",
         "type": "tabs",
         "children": [
           {
-            "id": "9f970af7e77190ce",
+            "id": "86c3948a8ea1089c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "30 - Permanent/Academics/Branches/App Maths Mind Map.canvas",
-                "viewState": {
-                  "x": 203.25187378443093,
-                  "y": 599.9453480375614,
-                  "zoom": -0.6666666666666665
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "App Maths Mind Map"
+              "type": "tasknotes-notes-view",
+              "state": {},
+              "icon": "file-text",
+              "title": "Notes"
             }
           }
         ]
@@ -203,6 +196,22 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "0db345ba4074c9af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44b9df2066d9ed1e",
+            "type": "leaf",
+            "state": {
+              "type": "tasknotes-mini-calendar-view",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Mini Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,6 +219,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "syncthing-status-icon:Activate view": false,
+      "tasknotes:Open mini calendar": false,
+      "tasknotes:Open advanced calendar": false,
+      "tasknotes:Open task list": false,
+      "tasknotes:Open notes": false,
+      "tasknotes:Open agenda": false,
+      "tasknotes:Open kanban board": false,
+      "tasknotes:Open pomodoro": false,
+      "tasknotes:Open pomodoro stats": false,
+      "tasknotes:Create new task": false,
       "bases:Create new base": true,
       "markdown-importer:Open format converter": false,
       "obsidian-book-search-plugin:Create new book note": false,
@@ -223,15 +242,16 @@
       "obsidian-git:Open Git source control": false,
       "templates:Insert template": false,
       "switcher:Open quick switcher": false,
-      "daily-notes:Open today's daily note": false,
-      "simple-note-review:Simple Note Review: Open Sidebar View": false,
-      "simple-note-review:Simple Note Review: Continue Review of Current Note Set": false
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "9f970af7e77190ce",
+  "active": "44b9df2066d9ed1e",
   "lastOpenFiles": [
-    "30 - Permanent/Academics/Branches/Heaney Mind Map.canvas",
     "30 - Permanent/Academics/Branches/App Maths Mind Map.canvas",
+    "Transport in the Flowering Plant.md",
+    "30 - Permanent/Academics/Homework/2025 Paper 1 Sec. 1 QA.md",
+    "30 - Permanent/Academics/Grinds/Spanish Grinds/Week 2 - Saturday.md",
+    "30 - Permanent/Academics/Branches/Heaney Mind Map.canvas",
     "00 - M.O.C/1 -App. Maths-.md",
     "App Maths Mind Map.md",
     "50 - Daily/2025/09/ 2025-09-05 Fri.md",
@@ -259,9 +279,6 @@
     "Algebra 3.md",
     "30 - Permanent/Academics/Chapters/Algebra 1.md",
     "The Blood.md",
-    "Transport in the Flowering Plant.md",
-    "Spanish Oral.md",
-    "30 - Permanent/Academics/Homework/Underdog Effect - Speach.md",
     "99 - Meta/Images/Covers/On Writing - Stephen King.jpg",
     "99 - Meta/Images/diagram-20250326.svg",
     "99 - Meta/Images/Covers/Sapiens - Yuval Noah Harari.webp",

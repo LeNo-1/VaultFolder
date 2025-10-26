@@ -2,10 +2,10 @@
 tags:
   - biologyMain
 Teacher: Ms. Brody
-sticker: emoji//1fac0
 ---
+
 ### Chapters (7th Yr.)
-1. [[Scientific Method]] —
+1. [[Scientific Method]] 
 2. [[The Characteristics of Life]]
 3. [[Food + Biomolecules]]
 4. [[Introduction to Ecology]]
@@ -22,14 +22,14 @@ sticker: emoji//1fac0
 15. [[DNA,RNA and Protein Synthesis]]
 16. [[Genetic Inheritance]]
 17. [[Variation, Evolution and Genetic Engineering]]
-18. [[Classification and Viruses]]   ————|
+18. [[Classification and Viruses]]
 19. [[Monera (Prokaryote)]]                            |
 20. [[Fungi and Protists]]                                 |
 21. [[Structure of the Flowering Plant]]     |
 22. [[Transport in the Flowering Plant]]      |
 23. [[Transport in Humans]]                             |
 24. [[The Blood]]                                                 |
-25. [[Human Nutrition]]—————————|
+25. [[Human Nutrition]]
 26. [[Homeostasis and Gaseous Exchange]]
 27. [[Excretion and Osmoregulation]]
 28. [[Plant Response to Stimuli]]

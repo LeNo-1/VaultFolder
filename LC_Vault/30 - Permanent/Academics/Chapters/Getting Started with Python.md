@@ -14,11 +14,11 @@ Syntax errors are errors caused by using the wrong syntax, *i.e. spelling, punct
 
 Example:
 ```python
-Print(Hello World!)
-# This code will not work as it has a capital "P"
+	Print(Hello World!)
+	# This code will not work as it has a capital "P"
 
-print(Hello World!)
-# This code will work as it has a lowercase "p"
+	print(Hello World!)
+	# This code will work as it has a lowercase "p"
 ```
 
 ###### -Logic Errors (Bugs)
@@ -36,35 +36,35 @@ Logic Errors or "bugs" are errors caused by a mistakes in the code leading to un
 
 ###### Types of Variables
 ```Python
-"Types of Variables"
-Integer - int # Whole Numbers
-Float - float # Decimal numbers
-String - str # Text
-Booleen - bool # True or false
+	"Types of Variables"
+	Integer - int # Whole Numbers
+	Float - float # Decimal numbers
+	String - str # Text
+	Booleen - bool # True or false
 
-type() # Finds the variable type of variable in its brackets 
+	type() # Finds the variable type of variable in its brackets 
 
-\"Printing Variables"
-# Example
-x = 5
-y = 7
-z = 9
-print("The answer is:", x, y, z)
+	\"Printing Variables"
+	# Example
+	x = 5
+	y = 7
+	z = 9
+	print("The answer is:", x, y, z)
 
-The answer is 5 7 9
+	The answer is 5 7 9
 ```
 
 #### Calculations on Variables
 
-| **Operator** | **Symbol** |     |     |
-| ------------ | ---------- | --- | --- |
-| *Add*          | +          |     |     |
-| *Subtract*     | -          |     |     |
-| *Multiply*     | *          |     |     |
-| *Divide*       | /          |     |     |
-| *Floor divide* | //         |     |     |
-| *Modulus*      | %          |     |     |
-| *Exponent*     | **         |     |     |
+| **Operator**   | **Symbol** |
+| -------------- | ---------- |
+| *Add*          | +          |
+| *Subtract*     | -          |
+| *Multiply*     | *          |
+| *Divide*       | /          |
+| *Floor divide* | //         |
+| *Modulus*      | %          |
+| *Exponent*     | **         |
 ##### Incrementing
 ->The code x=x+1 is used a lot in programming
 ||but python provides other ways to do this.
@@ -80,20 +80,21 @@ The answer is 5 7 9
 |      **=      |    x**=5    |      x=x**5       |
 ## Loops
 ### While loops
-A while loops keeps repeating while a certain condition is true and stops when its is false.
-```Python
-counter = 0
-while counter < 7:
-    print(counter)
-    counter+=1
-print("Im glad that loop is finished")
+A while loops keeps repeating while a certain condition is true and stops when its is false.``
+
+```python
+	counter = 0
+	while counter < 7:
+	    print(counter)
+	    counter+=1
+	print("Im glad that loop is finished")
 ```
 ### For Loops
 Unlike while loops, for loops are given a specific number of times to repeat.
 #### Basic For Loops
 ```Python
-for y in range(1,5):
-    print(y)
+	for y in range(1,5):
+	    print(y)
 ```
 
 

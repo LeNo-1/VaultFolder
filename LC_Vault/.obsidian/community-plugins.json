@@ -15,5 +15,9 @@
   "obsidian-book-search-plugin",
   "folder-notes",
   "obsidian-tasks-plugin",
-  "simple-note-review"
+  "simple-note-review",
+  "code-styler",
+  "obsidian-latex-suite",
+  "syncthing-status-icon",
+  "tasknotes"
 ]

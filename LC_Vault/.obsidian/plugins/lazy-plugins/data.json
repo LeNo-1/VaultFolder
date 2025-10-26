@@ -92,6 +92,21 @@
       },
       "simple-note-review": {
         "startupType": "instant"
+      },
+      "obsidian-image-layouts": {
+        "startupType": "instant"
+      },
+      "syncthing-status-icon": {
+        "startupType": "instant"
+      },
+      "obsidian-latex-suite": {
+        "startupType": "instant"
+      },
+      "tasknotes": {
+        "startupType": "instant"
+      },
+      "ink": {
+        "startupType": "instant"
       }
     },
     "loadOrder": []
@@ -174,6 +189,21 @@
         "startupType": "instant"
       },
       "folder-notes": {
+        "startupType": "instant"
+      },
+      "simple-note-review": {
+        "startupType": "instant"
+      },
+      "obsidian-image-layouts": {
+        "startupType": "instant"
+      },
+      "obsidian-latex-suite": {
+        "startupType": "instant"
+      },
+      "tasknotes": {
+        "startupType": "instant"
+      },
+      "ink": {
         "startupType": "instant"
       }
     },

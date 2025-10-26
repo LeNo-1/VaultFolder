@@ -1,0 +1,70 @@
+{
+	"nodes":[
+		{"id":"b23193ab6f2352d6","type":"file","file":"30 - Permanent/Academics/Chapters/Trigonometry.md","x":-1260,"y":-480,"width":540,"height":1040},
+		{"id":"a92f371e8722ea64","type":"file","file":"99 - Meta/Images/Pasted image 20250911184809.webp","x":-1445,"y":780,"width":525,"height":335},
+		{"id":"51da30c4e4d9a8de","type":"file","file":"99 - Meta/Images/Pasted image 20250911174009.webp","x":-840,"y":790,"width":459,"height":325},
+		{"id":"fc2e508cabd917fd","type":"file","file":"99 - Meta/Images/Pasted image 20250911185241.webp","x":-2000,"y":790,"width":507,"height":285},
+		{
+			"id":"9da8449fc8febadf",
+			"type":"text",
+			"text":"## Steps when answering questions\n1. Draw a good-sized diagram\n2. Fill in as much information as you can first e.g. the 3rd angle in a triangle where you're given the other 2 angles\n3. Label what you're looking for\n4. Is there a right-angled triangle?\n\t- Yes - Pythagoras SOHCAHTOA\n\t- No - Step 5\n5. Do I know an angle and its opposite side?\n\t- Yes - Sine Rule\n\t- No - Cosine Rule",
+			"styleAttributes":{},
+			"x":-2160,
+			"y":240,
+			"width":500,
+			"height":400
+		},
+		{"id":"430999cbc28a82dd","type":"file","file":"00 - M.O.C/5 -Maths-.md","x":-1140,"y":-1280,"width":300,"height":220}
+	],
+	"edges":[
+		{
+			"id":"7175c433822d58cb",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b23193ab6f2352d6",
+			"fromSide":"bottom",
+			"toNode":"51da30c4e4d9a8de",
+			"toSide":"top"
+		},
+		{
+			"id":"c256c32f0e1fb4f1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b23193ab6f2352d6",
+			"fromSide":"left",
+			"toNode":"9da8449fc8febadf",
+			"toSide":"right"
+		},
+		{
+			"id":"825a8e83c3601217",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b23193ab6f2352d6",
+			"fromSide":"bottom",
+			"toNode":"a92f371e8722ea64",
+			"toSide":"top"
+		},
+		{
+			"id":"cf51cd569c9044ab",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b23193ab6f2352d6",
+			"fromSide":"bottom",
+			"toNode":"fc2e508cabd917fd",
+			"toSide":"top"
+		},
+		{
+			"id":"a53cdbbdb61b1de8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"430999cbc28a82dd",
+			"fromSide":"bottom",
+			"toNode":"b23193ab6f2352d6",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

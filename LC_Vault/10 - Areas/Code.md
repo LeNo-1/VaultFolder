@@ -1,0 +1,2 @@
+- Open Router smart chat
+	- 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

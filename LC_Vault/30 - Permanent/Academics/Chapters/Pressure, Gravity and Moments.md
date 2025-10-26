@@ -5,7 +5,7 @@ $$Density = \frac{Mass}{Volume}\rightarrow \rho=\frac{m}{V}$$
 ## Pressure
 >[!Note] **Pressure** is *force per unit area*
 - The unit of pressure is the *pascal* (Pa)
-	- 1 Pa = 1 N m^-2
+	- 1 Pa =$1 N m^{-2}$ 
 $$Pressure=\frac{Force}{Area}\rightarrow P=\frac{F}{A}$$
 ### Pressure Due to a Liquid
 At a depth $h$ in a liquid of a density $\rho$ where the acceleration due to gravity is *g*
@@ -14,12 +14,14 @@ $$P=\rho gh$$
 - Pressure acts perpendicular to any surface put in the liquid
 - At a given depth the value of pressure is the same in all directions
 #### Upthrust on an Object Immersed in a Fluid
- - **Archimedes Principle** states that when an object is *partially or completely immersed in a fluid* it experiences an *upthrust* equal in magnitude to the *weight of the liquid displaced*
+ > [!note] **Archimedes Principle** states that when an object is *partially or completely immersed in a fluid* it experiences an *upthrust* equal in magnitude to the *weight of the liquid displaced*
 #### The Law of Flotation
 - The **Law of Flotation** states that the *weight of a floating body* is equal to the *weight of the liquid it displaces*
 ### Boyle's Law
 **Boyle's Law** states that at a *constant temperature* the *volume of a fixed mass of gas* is *inversely proportional to its pressure*
 $$p\propto \frac{1}{V} \rightarrow \space k(\frac{1}{V})\rightarrow pV=k$$
+
+![[OIP-2728183477.webp|282x282]]
 ## Gravity
 ### Newtons Law of Universal Gravitation
 **Newtons Law of Universal Gravitation** states that *any two point masses* in the universe attract each other with a force that is *directly proportional to the product of the masses* and *inversely proportional to the square of the distance between them*.
@@ -49,6 +51,10 @@ $$Momement\space of\space Couple \space (Torque) \space T=Fd$$
 # Experiments
 ## Archimedes Principle
 
+
 ## Verify Boyle's Law
 
 ## Laws of Equilibrium for a Set of Coplanar Forces
+
+
+[[Mechanics 1]]

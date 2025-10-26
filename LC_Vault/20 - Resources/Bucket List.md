@@ -1,23 +1,26 @@
 # Wants
 Tech
 ----
-- [ ] 🔽 Laptop stand
-- [ ] 🔽 NVME SSD
-- [ ] 🔽 Mini NAS - 185->225 *
-- [ ] 🔽 tablet w/ pen (galaxy tab s6) *
-- [ ] 🔼 Power banker  
+- [[🔽 Laptop stand]]
+- [[🔽 NVME SSD 1Tb]]
+- [[🔽 Mini NAS - 185-225]]
+- [[🔽 tablet w pen (Lenovo Idea Tab 11)]]
+- [[Power banker]]
 
 Life
 ----
-- [ ] 🔽 weighing scale
-- [ ] 
+- [[🔽 weighing scale]]
+- [[Handwraps]]
+- [[Gear bag]]
+- [[Gloves]]
 - [ ] 
 
 Bedroom
 ---
-- [ ] Posters
-- [ ] silk pillowcase ~30-40
-- [ ] x
+- [[Posters]]
+- [[silk pillowcase €30-40]]
+- [[Weighted Blanket]]
+- [[20 - Resources/Office Chair €60]]
 
 Misc.
 ---
@@ -25,6 +28,3 @@ Misc.
 - [ ] x
 - [ ] x
 
-# Things to Do
-- [ ] 
-- [ ] 

@@ -1,7 +1,7 @@
 {
   "openExternalURLs": true,
   "enableAdblocking": false,
-  "homepage": "http://127.0.0.1:8080/",
+  "homepage": "",
   "customSearchEngine": "https://duckduckgo.com/?q=%s",
   "searchEngine": "custom"
 }

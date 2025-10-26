@@ -9,7 +9,7 @@ Small animals e.g. Amoeba which consists of only one cell can rely on diffusion 
 
 ## Blood Vessels
 ### Veins and Arteries
-![[image-1.png|T.S. of Artery and Vein]]
+![[image-1.webp|T.S. of Artery and Vein]]
 Going from outside in:
 - Fibrous Wall
 - Muscle and elastic fibres
@@ -36,7 +36,7 @@ Capillaries *link* arteries and veins. It is in Capillaries that the exchange of
 ## The Heart
 The heart is located in the **thoracic or chest cavity**
 It is made up of **cardiac muscle** ( it is not under our conscious control and does not tire ). It is surrounded by a double membrane ( **Pericardium** ). The pericardium fluid between the two membranes prevents friction between beats
-![[download 1.jpg]]
+![[download 1.webp]]
 **Four chambers in the heart**:
 Left atrium and left ventricle
 Right atrium and right ventricle

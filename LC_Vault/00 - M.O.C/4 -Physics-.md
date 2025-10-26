@@ -2,7 +2,6 @@
 tags:
   - physicsMain
 Teacher: Mr. Kennedy
-sticker: emoji//1f34e
 ---
 ### Chapters (5th Yr.)
 1. [[Introduction]]
@@ -18,14 +17,14 @@ sticker: emoji//1f34e
 11. [[Work, Energy and Power]]
 12. [[Circular Motion]]
 13. [[Simple Harmonic Motion + Hooke's Law]]
-14. [[]]
-15. [[]]
-16. [[]]
-17. [[]]
-18. [[]]
-19. [[]]
-20. [[]]
-21. [[]]
+14. [[Temperature and thermodynamics]]
+15. [[Quantity of Heat and Heat Transfer]]
+16. [[Waves and Wave Motion]]
+17. [[Vibrations and Sound]]
+18. [[The Wave Nature of Light]]
+19. [[Static Electricity]]
+20. [[Potential Difference and Capacitance]]
+21. [[Current and Charge]]
 22. [[]]
 23. [[]]
 24. [[]]

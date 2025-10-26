@@ -2,7 +2,6 @@
 tags:
   - mathsMain
 Teacher: Mr. Kennedy
-sticker: emoji//1f9ee
 ---
 
 ### Chapters (5th Yr.)

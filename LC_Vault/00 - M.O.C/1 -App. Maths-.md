@@ -2,9 +2,9 @@
 tags:
   - appMathsMain
 Teacher: Mr. Black
-sticker: lucide//sigma
 ---
 [[App Maths Mind Map.canvas|App Maths Mind Map]]
+
 ### Chapters (5th Yr.)
 1. [[Vectors]]
 2. [[Newton's Laws and Connected Particles]]

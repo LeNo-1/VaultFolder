@@ -1,3 +1,4 @@
+
 - (i)
 	Based on your reading of TEXT 1, what insights do you gain about how the ‘underdog effect’ can influence our perspectives? Make three points, supporting your response with reference to the text. 
 	---

@@ -8,8 +8,9 @@ Priotity:
 category:
   - Biography & Autobiography
 totalPage: 308
-Started:
+Started: 2025-09-07
 Last Read:
 Rating:
-Recommendation:
+  - "?"
+Recommendation: "?"
 ---

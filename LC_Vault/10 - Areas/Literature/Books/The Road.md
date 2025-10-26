@@ -1,7 +1,7 @@
 ---
 Author:
   - Cormac McCarthy
-Status: reading
+Status: Done
 Topics:
   - Fiction
 Cover: http://books.google.com/books/content?id=GwlKPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api

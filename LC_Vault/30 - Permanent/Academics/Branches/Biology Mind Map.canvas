@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{
+			"id":"5f0fec7d71518862",
+			"type":"text",
+			"text":"Biology",
+			"styleAttributes":{},
+			"x":60,
+			"y":-100,
+			"width":260,
+			"height":60
+		},
+		{"id":"5d7726ea1f5c4938","type":"file","file":"30 - Permanent/Academics/Chapters/Structure of the Flowering Plant.md","x":-10,"y":120,"width":400,"height":400}
+	],
+	"edges":[
+		{
+			"id":"9b2aaaa8e392a5be",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5f0fec7d71518862",
+			"fromSide":"bottom",
+			"toNode":"5d7726ea1f5c4938",
+			"toSide":"top"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
