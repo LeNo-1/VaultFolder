@@ -19,6 +19,8 @@
     "Orbit"
   ],
   "readableLineLength": false,
-  "showInlineTitle": true,
-  "showUnsupportedFiles": true
+  "showInlineTitle": false,
+  "showUnsupportedFiles": true,
+  "foldHeading": true,
+  "foldIndent": true
 }
