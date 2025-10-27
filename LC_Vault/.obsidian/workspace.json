@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30 - Permanent/Academics/Branches/App Maths Mind Map.canvas",
+                "file": "00 - M.O.C/00 - M.O.C.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,12 +191,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.3628873693012119,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of App Maths Mind Map"
+              "title": "Graph of 00 - M.O.C"
             }
           }
         ],
@@ -251,9 +251,11 @@
       "homepage:Open homepage": true
     }
   },
-  "active": "7300eed339b306f8",
+  "active": "778e3949d462f821",
   "lastOpenFiles": [
+    "30 - Permanent/Academics/Branches/Untitled.canvas",
     "00 - M.O.C/00 - M.O.C.md",
+    "20 - Resources/Bucket List.md",
     "00 - M.O.C/6 -English-.md",
     "Academic Library.base",
     "20 - Resources/Random Password things.md",
