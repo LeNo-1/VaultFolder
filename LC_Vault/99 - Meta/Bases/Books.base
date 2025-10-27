@@ -12,15 +12,11 @@ views:
     order:
       - file.name
       - Author
-      - Topics
-      - Rating
       - Status
-      - Recommendation
-      - Date Finished
     sort:
       - property: file.ctime
         direction: DESC
-    cardSize: 120
+    cardSize: 150
     imageFit: ""
     image: note.Cover
-    imageAspectRatio: 1.4
+    imageAspectRatio: 1.5

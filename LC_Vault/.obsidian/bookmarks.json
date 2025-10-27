@@ -1,22 +1,3 @@
 {
-  "items": [
-    {
-      "type": "url",
-      "ctime": 1746464303864,
-      "url": "https://ankiweb.net/decks",
-      "title": "Anki"
-    },
-    {
-      "type": "group",
-      "ctime": 1756757070897,
-      "items": [
-        {
-          "type": "file",
-          "ctime": 1757627906061,
-          "path": "30 - Permanent/Academics/Binder/Sheamus Heaney.md"
-        }
-      ],
-      "title": "Poets"
-    }
-  ]
+  "items": []
 }
