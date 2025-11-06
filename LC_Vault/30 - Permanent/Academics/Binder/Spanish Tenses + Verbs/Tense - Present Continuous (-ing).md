@@ -1,4 +1,5 @@
-> [!Note] The present participle in Spanish, known as "el gerundio," is used to describe an ongoing action. It is equivalent to the "-ing" form in English (e.g., "walking," "eating," "living").
+> [!Note] 
+> The present participle in Spanish, known as "el gerundio," is used to describe an ongoing action. It is equivalent to the "-ing" form in English (e.g., "walking," "eating," "living").
  
 ## Formation of Regular Present Participles
 

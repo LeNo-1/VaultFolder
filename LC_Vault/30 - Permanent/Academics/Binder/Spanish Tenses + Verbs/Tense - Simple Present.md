@@ -1,4 +1,5 @@
-> [!note] Used to refer to actions that are habitual or happen regularly. It can also be used to indicate certain actions happening now and to describe near future intention
+> [!note]
+>  Used to refer to actions that are habitual or happen regularly. It can also be used to indicate certain actions happening now and to describe near future intention
 
 
 | Hablar   | Comer   | Vivir   |

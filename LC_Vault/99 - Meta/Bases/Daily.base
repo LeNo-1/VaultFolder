@@ -1,3 +1,7 @@
 views:
   - type: table
     name: Table
+    filters:
+      and:
+        - file.inFolder("50 - Daily")
+        - file.mtime > now() - "1 week"

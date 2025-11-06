@@ -46,9 +46,12 @@ $$f(x)=\frac{u(x)}{v(x)}\to f\prime(x)=\frac{v(x)u\prime(x)-u(x)v\prime(x)}{[v(x
 - $$\frac{dy}{dx}= \frac{v\frac{du}{dx}-u\frac{dv}{dx}}{v(x)^2}$$
 #### Trigonometric Functions
 
-| f(x)   | f'(x)      |
-| ------ | ---------- |
-| Sin(x) | $Cos(x)$   |
-| Cos(x) | $-Sin(x)$  |
-| Tan(x) | $Sec^2(x)$ |
+| f(x)                    | f'(x)                       |     |
+| ----------------------- | --------------------------- | --- |
+| Sin(x)                  | $Cos(x)$                    |     |
+| Cos(x)                  | $-Sin(x)$                   |     |
+| Tan(x)                  | $Sec^2(x)$                  |     |
+| $Sin^{-1}(\frac{x}{a})$ | $\frac{1}{\sqrt{a^2-x^2}}$  |     |
+| $Cos^{-1}(\frac{x}{a})$ | $-\frac{1}{\sqrt{a^2-x^2}}$ |     |
+| $Tan^{-1}(\frac{x}{a})$ | $\frac{1}{\sqrt{a^2+x^2}}$  |     |
 

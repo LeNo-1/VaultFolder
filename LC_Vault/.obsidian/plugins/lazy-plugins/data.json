@@ -116,6 +116,15 @@
       },
       "homepage": {
         "startupType": "instant"
+      },
+      "multi-column-markdown": {
+        "startupType": "instant"
+      },
+      "widgets": {
+        "startupType": "instant"
+      },
+      "obsidian-advanced-uri": {
+        "startupType": "instant"
       }
     },
     "loadOrder": []
@@ -213,6 +222,24 @@
         "startupType": "instant"
       },
       "ink": {
+        "startupType": "instant"
+      },
+      "new-tab-default-page": {
+        "startupType": "instant"
+      },
+      "home-tab": {
+        "startupType": "instant"
+      },
+      "homepage": {
+        "startupType": "instant"
+      },
+      "multi-column-markdown": {
+        "startupType": "instant"
+      },
+      "widgets": {
+        "startupType": "instant"
+      },
+      "obsidian-advanced-uri": {
         "startupType": "instant"
       }
     },

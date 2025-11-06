@@ -1,59 +1,42 @@
 {
   "main": {
-    "id": "ddd1c20ce9de47ab",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "758605ff2c62bf9f",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "43ecda0747466098",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 - Permanent/Academics/Chapters/Simple Harmonic Motion + Hooke's Law.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "file": "00 - M.O.C/00 - M.O.C.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Simple Harmonic Motion + Hooke's Law"
+              "title": "00 - M.O.C"
             }
           },
           {
-            "id": "6c46ee9de982ae78",
+            "id": "e80eef69a5661314",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 - Permanent/Academics/Binder/Spanish Tenses + Verbs/Tense - Imperfect (Past - Unspecific).md",
+                "file": "Projectiles.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": false
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Tense - Imperfect (Past - Unspecific)"
-            }
-          },
-          {
-            "id": "27b99e255ab90d05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Differential Calculus 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Differential Calculus 1"
+              "title": "Projectiles"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,8 +110,8 @@
             "showSearch": false,
             "searchQuery": ""
           },
-          "icon": "lucide-archive",
-          "title": "All properties"
+          "icon": "lucide-ghost",
+          "title": "all-properties"
         }
       }
     ],
@@ -177,7 +160,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "30 - Permanent/Academics/Binder/Spanish Tenses + Verbs/Tense - Present Continuous (-ing).md",
+            "file": "Projectiles.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -191,6 +174,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "homepage:Open homepage": false,
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
@@ -214,49 +199,49 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "27b99e255ab90d05",
+  "active": "e80eef69a5661314",
   "lastOpenFiles": [
-    "Differential Calculus 1.sync-conflict-20251004-172704-3SP5T62.md",
-    "Differential Calculus 1.sync-conflict-20251004-162703-3SP5T62.md",
-    "Office Chair €60.md",
-    "Clippings/Mini PC Dell Optiplex 7040 Micro i3 i5 i7 - NVMe SSD - bis zu 64GB RAM.md",
-    "30 - Permanent/Academics/Binder/Spanish Tenses + Verbs/Tense - Present Continuous (-ing).md",
-    "30 - Permanent/Academics/Binder/Spanish Tenses + Verbs/Tense - Imperfect (Past - Unspecific).md",
-    "30 - Permanent/Academics/Binder/Spanish Tenses + Verbs/Tense - The Future (will).md",
-    "30 - Permanent/Academics/Binder/Spanish Tenses + Verbs/Tense - The Conditional (would).md",
-    "30 - Permanent/Academics/Binder/Spanish Tenses + Verbs/Tense - Preterite (Past - Specific).md",
-    "30 - Permanent/Academics/Binder/Spanish Tenses + Verbs/Tense - Simple Present.md",
-    "20 - Resources/Bucket List.md",
-    "20 - Resources/Office Chair €60.md",
-    "20 - Resources/Gear bag.md",
-    "20 - Resources/Gloves.md",
-    "20 - Resources/Handwraps.md",
-    "30 - Permanent/Academics/Chapters/Present Tense Verbs.md",
+    "Untitled.md",
+    "Projectiles.md",
+    "00 - M.O.C/00 - M.O.C.md",
+    "50 - Daily/2025/11/ 2025-11-04 Tue.md",
+    "99 - Meta/Tasknotes/🔽 Laptop stand.md",
+    "99 - Meta/Bases/Overdue.base",
+    "99 - Meta/Bases/Daily.base",
+    "99 - Meta/Bases/Coming up.base",
+    "99 - Meta/Tasknotes/Irish grinds hw.md",
+    "Untitled 1.md",
+    "50 - Daily/2025/11/ 2025-11-02 Sun.md",
+    "30 - Permanent/Academics/Chapters/Work, Energy and Power.md",
+    "00 - M.O.C/1 -App. Maths-.md",
+    "30 - Permanent/Academics/Chapters/Newton's Laws and Connected Particles.md",
+    "30 - Permanent/Academics/Chapters/Vectors.md",
+    "50 - Daily/2025/10/ 2025-10-31 Fri.md",
+    "2025-10.md",
+    "Photosynthesis.md",
+    "30 - Permanent/Academics/Chapters/Algebra 1.md",
+    "50 - Daily/2025/10/ 2025-10-30 Thu.md",
+    "This is a new note.md",
+    "{{tomorrow}}.md",
+    "{{yesterday}}.md",
+    "99 - Meta/Tasknotes/Study.md",
+    "50 - Daily/2025/10/ 2025-10-29 Wed.md",
+    "99 - Meta/Tasknotes/Study for.md",
+    "00 - M.O.C/8 -Spanish-.md",
+    "50 - Daily/2025/10/ 2025-10-28 Tue.md",
+    "Task.base",
+    "99 - Meta/TaskNotes/Buy something.md",
+    "99 - Meta/TaskNotes",
+    "50 - Daily/2025/10",
     "99 - Meta/Ink/Drawing/2025.10.2 - 11.39am.drawing",
-    "Differential Calculus 1.md",
     "99 - Meta/Ink/Drawing/2025.9.30 - 23.30pm.drawing",
-    "20 - Resources/Posters.md",
-    "30 - Permanent/Academics/Chapters/Simple Harmonic Motion + Hooke's Law.md",
     "99 - Meta/Ink/Drawing/2025.9.30 - 23.25pm.drawing",
     "99 - Meta/Ink/Drawing/2025.9.30 - 23.25pm (2).drawing",
-    "20 - Resources/🔽 Mini NAS - 185-225.md",
-    "30 - Permanent/Academics/Chapters/Functions.md",
-    "99 - Meta/Ink/Drawing",
-    "99 - Meta/Ink",
-    "Excalidraw/Drawing 2025-09-30 23.21.56.excalidraw.md",
-    "Excalidraw",
-    "30 - Permanent/Academics/Chapters/Pressure, Gravity and Moments.md",
-    "30 - Permanent/Academics/Chapters/Circular Motion.md",
-    "Dynamic Progaming.md",
-    "99 - Meta/Tasknotes",
-    "30 - Permanent/Academics/Chapters/Circular Motion and Hooke's Law.md",
     "30 - Permanent/Academics/Branches/Maths Mind Map.canvas",
     "30 - Permanent/Academics/Branches/Eng - Heaney Mind Map.canvas",
     "30 - Permanent/Academics/Branches/Biology Mind Map.canvas",
     "30 - Permanent/Academics/Branches/App Maths Mind Map.canvas",
     "30 - Permanent/Academics/Branches/App Maths Mind Map.sync-conflict-20250908-223840-72JH6T5.canvas",
-    "99 - Meta/Bases/Books.base",
-    "99 - Meta/Bases/Daily.base",
     "Untitled.canvas",
     "image-1.png",
     "image.png",

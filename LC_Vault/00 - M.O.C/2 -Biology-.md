@@ -10,13 +10,13 @@ Teacher: Ms. Brody
 3. [[Food + Biomolecules]]
 4. [[Introduction to Ecology]]
 5. [[The Effects of Humans on the Environment]]
-6. [[Ecological Relationships and Population Dynamics]]
+6. [[Ecological Relationships and Population Dynamics]] |
 7. [[The Study of an Ecosystem]]
-8. [[Cell Structure and Microscopy]]
-9. [[Cell Diversity]]
-10. [[Movement Through Cell Membranes]]
-11. [[Cell Continuity]]
-12. [[Enzymes]]
+8. [[Cell Structure and Microscopy]] |
+9. [[Cell Diversity]] |
+10. [[Movement Through Cell Membranes]] |
+11. [[Cell Continuity]] |
+12. [[Enzymes]] |
 13. [[Photosynthesis]]
 14. [[Respiration]]
 15. [[DNA,RNA and Protein Synthesis]]

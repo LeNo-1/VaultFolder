@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"d21f68af9a777a82","x":-200,"y":-1280,"width":400,"height":1140,"type":"text","text":"# Scientific method\n1. Observation\n2. Hypothesis\n3. Experiment\n4. Data\n5. Conclusion\n6. Replicate\n7. Theory\n\n## Avoid Bias\nLarge Sample Size\nDouble-blind (*placebo*) test\nRandom Selection\nReplicates\n\n> [!note] Definitions\n>  **Def. Hypothesis**\n A hypothesis is an educated guess based on observation\n>\n >**Def. Experiment** \n >An Experiment is a series of steps carried out to test the hypothesis\n>\n >**Def. Data**  \n >Data are the measurements, observations or information gathered from an experiment\n>\n >**Def. Replicate** \n >A replicate is a repeat of an experiment or procedure\n>\n >**Def. Theory**\n >A theory is a hypothesis that is supported by experimentation\n >*(A Principle is a proven theory)*\n>\n >**Def. Control**\n >A control is a standard against which the experiment is compared\n"},
+		{"id":"c2abfb06feff3d74","x":200,"y":-1280,"width":400,"height":1140,"type":"text","text":"# Characteristics of Life\n"}
+	],
+	"edges":[]
+}

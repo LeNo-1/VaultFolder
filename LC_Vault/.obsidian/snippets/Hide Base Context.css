@@ -1,0 +1,8 @@
+.no-toolbar {
+    .query-toolbar {
+        display: none;
+    }
+    &.mod-cm6 .cm-content > .bases-embed .edit-block-button {
+        opacity: 0.3;
+    }
+}

@@ -9,18 +9,18 @@
 ^97c148
 
 1. Observation
-2. Hypothesis {[[#^ca7760]]}
-3. Experiment {[[#^f59639]]} 
-4. Data {[[#^ca5020]]}
+2. Hypothesis 
+3. Experiment 
+4. Data
 5. Conclusion
-6. Replicate {[[#^3e9ad5]]}
-7. Theory {[[#^79bb0e]]}
+6. Replicate
+7. Theory 
 
 ## - Planning and Designing
 ###### <mark style="background: #BBFABBA6;">A good experiment has:</mark>
 - Carefully planned and designed
 - Carried out safely
-- Include a control [[#^67bd4d]]
+- Include a control 
 - Be free from bias
 ##### Controlled experiments
 - When carrying out an experiment, all conditions should be kept the same except the one being tested.
@@ -34,28 +34,22 @@
 # Definitions
 
  **Def. Hypothesis**
- ->A hypothesis is an ==educated guess== based on ==observation==
-^ca7760
+ ->A hypothesis is an educated guess based on ==observation==
 
  **Def. Experiment** 
  ->An Experiment is a ==series of steps== carried out to test the ==hypothesis==
-^f59639
 
  **Def. Data**  
  ->Data are the measurements, observations or ==information gathered== from an experiment
-^ca5020
 
  **Def. Replicate** 
  ->A replicate is a ==repeat== of an experiment or procedure
-^3e9ad5
 
  **Def. Theory**
  ->A theory is a ==hypothesis== that is ==supported by experimentation==
  *(A Principle is a proven theory)*
-^79bb0e
 
  **Def. Control**
  ->A control is a ==standard== against which the ==experiment is compared== 
 
-^67bd4d
 

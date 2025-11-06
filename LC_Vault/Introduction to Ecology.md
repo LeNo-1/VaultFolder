@@ -1,4 +1,5 @@
-> [!Note] **Ecology** is the study of *the interaction between groups of organisms and their environment*
+> [!Note] 
+> **Ecology** is the study of *the interaction between groups of organisms and their environment*
 - An **ecosystem** consists of organisms and their interactions with the environment
 - The **biosphere** is the parts of the earth and its atmosphere in which life can exist
 ## Environmental Factors
@@ -64,6 +65,6 @@ Edaphic factors are factors related to the *soil*. The type of soil it's pH and 
 - Nitrate is the form in which plants can absorb nitrogen
 	- Some plants like peas beans and clover have tiny swellings called nodules on their roots. A group of bacteria known as nitrogen fixing bacteria live in these nodules and are able to convert free nitrogen from the soil air into nitrate ions, which are used by the plant to make protein
 	- During the decomposition protein is converted into ammonia ($NH_{3}$). Ammonia is a nitrogen-containing compounds such as urine are also released by animals during excretion. Certain bacteria in the soil known as the *nitrifying bacteria* convert ammonia to nitrite ($NO_2$) and the nitrite to nitrate ($NO_{3}$) which is then absorbed into the plants.
-		- There is also a group of bacteria that undo the good work of the nitrifying bacteria called *denitifying bacteria* ![[Nitrogen-cycle-nitrogen-fixation-nitrogen-assimilation-ammonification-nitrification-and-denitrification-918146238.png]]
+		- There is also a group of bacteria that undo the good work of the nitrifying bacteria called *denitifying bacteria* ![[Nitrogen-cycle-nitrogen-fixation-nitrogen-assimilation-ammonification-nitrification-and-denitrification-918146238.png| Nitrogen Cycle]]
 
 #Ecology #biologyMain

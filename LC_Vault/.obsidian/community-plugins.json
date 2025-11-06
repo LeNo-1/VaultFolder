@@ -9,18 +9,12 @@
   "text2anki-openai",
   "lazy-plugins",
   "cooklang-obsidian",
-  "obsidian-style-settings",
   "obsidian-git",
   "obsidian-book-search-plugin",
-  "folder-notes",
   "simple-note-review",
-  "code-styler",
-  "obsidian-latex-suite",
-  "syncthing-status-icon",
   "tasknotes",
-  "home-tab",
   "new-tab-default-page",
   "homepage",
-  "multi-column-markdown",
-  "widgets"
+  "obsidian-style-settings",
+  "obsidian-advanced-uri"
 ]

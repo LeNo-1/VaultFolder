@@ -1,6 +1,6 @@
 ## Experiments
 Based on the sources, here is a short explanation of the key mandatory experiments in mechanics.
-
+# Heading
 ### **1. Measurement of Velocity and Acceleration**
 This experiment uses a **ticker timer, ticker tape, a trolley, and a runway** to analyze motion [1-3]. The ticker timer marks dots on the tape at a constant rate, typically 50 dots per second, meaning the time interval between dots is 0.02 seconds [3, 4].
 

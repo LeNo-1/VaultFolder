@@ -9,14 +9,16 @@ views:
     filters:
       and:
         - file.inFolder("10 - Areas/Literature/Books")
+        - Status != "Done"
     order:
       - file.name
       - Author
       - Status
     sort:
-      - property: file.ctime
-        direction: DESC
+      - property: Status
+        direction: ASC
     cardSize: 150
     imageFit: ""
     image: note.Cover
     imageAspectRatio: 1.5
+    rowHeight: tall

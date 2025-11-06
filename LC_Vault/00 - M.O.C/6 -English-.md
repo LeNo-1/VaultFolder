@@ -56,6 +56,7 @@ _ [[Act 2 Scene 4 - Outside Macbeths Castle ]]
 ## Poets
 [[Sheamus Heaney]]
 [[Elizabeth Bishop]]
+[[W. B. Yeats]]
 
 # Exam Paper Breakdown
 #### Paper 1

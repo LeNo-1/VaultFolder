@@ -65,6 +65,7 @@
     "TQ_show_urgency": "checkbox",
     "autoscroll-speed": "number",
     "Last Read": "date",
-    "Started": "date"
+    "Started": "date",
+    "Cover": "text"
   }
 }
