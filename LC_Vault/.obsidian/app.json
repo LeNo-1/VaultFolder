@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "vimMode": true,
   "strictLineBreaks": false,
   "propertiesInDocument": "visible",

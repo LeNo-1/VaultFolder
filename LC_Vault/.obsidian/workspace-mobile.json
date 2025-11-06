@@ -168,14 +168,23 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "6fbf4ca6bca5b1c4",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 2
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
       "audio-recorder:Start/stop recording": false,
-      "homepage:Open homepage": false,
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
@@ -187,6 +196,7 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "tasknotes:Open mini calendar": false,
       "tasknotes:Open advanced calendar": false,
@@ -196,7 +206,8 @@
       "tasknotes:Open kanban board": false,
       "tasknotes:Open pomodoro": false,
       "tasknotes:Open pomodoro stats": false,
-      "tasknotes:Create new task": false
+      "tasknotes:Create new task": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "e80eef69a5661314",
