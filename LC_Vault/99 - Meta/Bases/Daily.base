@@ -3,5 +3,5 @@ views:
     name: Table
     filters:
       and:
-        - file.mtime > now() - "1 week"
+        - file.ctime > today()  - "1 week"
         - file.inFolder("50 - Daily")
