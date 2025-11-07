@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "00 - M.O.C/00 - M.O.C.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -249,7 +249,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "1014a56f65a24996",
   "lastOpenFiles": [
     "00 - M.O.C/00 - M.O.C.md",
     "50 - Daily/2025/11/ 2025-11-06 Thu.md",
