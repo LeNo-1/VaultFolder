@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 - Resources/Random Password things.md",
+                "file": "00 - M.O.C/00 - M.O.C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random Password things"
+              "title": "00 - M.O.C"
             }
           }
         ]
@@ -251,6 +251,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "20 - Resources/Random Password things.md",
     "00 - M.O.C/00 - M.O.C.md",
     "50 - Daily/2025/11/ 2025-11-06 Thu.md",
     "Differential Calculus 1.md",
@@ -281,7 +282,6 @@
     "99 - Meta/Other Files/Spanish Oral.pdf",
     "00 - M.O.C/~syncthing~00 - M.O.C.md.tmp",
     "99 - Meta/Tasknotes/🔽 Laptop stand.md",
-    "99 - Meta/Tasknotes/🔽 tablet w pen (Lenovo Idea Tab 11).md",
     "99 - Meta/Other Files/Homework oral 25 26.pdf",
     "99 - Meta/Other Files/H5a.pdf",
     "99 - Meta/Other Files/H4a.pdf",
