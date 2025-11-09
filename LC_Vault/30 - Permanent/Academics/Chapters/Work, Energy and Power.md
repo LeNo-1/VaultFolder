@@ -1,11 +1,13 @@
 ## Work
->[!note] When a **force F** moves a body a **displacement** s in the direction of the force, the **work W** done is equal to the force multiplied by the displacement
+>[!note]
+> When a **force F** moves a body a **displacement** s in the direction of the force, the **work W** done is equal to the force multiplied by the displacement
 
 $$Work=Force\times Displacement W=Fs$$
 - The unit of work is the *joule* (J / N m)
 - It is a *scalar quantity*
 ## Energy
->[!note] **Energy** is the *ability to do work*. The amount of energy something has is the amount of work it can do
+>[!note]
+> **Energy** is the *ability to do work*. The amount of energy something has is the amount of work it can do
 
 - Energy is a *scalar quantity*
 - Measured in *joules* 
@@ -21,10 +23,12 @@ $$Work=Force\times Displacement W=Fs$$
 ###### Electromagnetic Energy
 - A form of energy transmitted from one point to another in the form of electromagnetic waves
 - Travel at the speed of light (3x10^8 ms)
-## Power
->[!note] **Power** is the *rate at which work is done*.
+## Power    sadasasdasddqwwqdaw
+>[!note] 
+>**Power** is the *rate at which work is done*.
 
->[!note] **Power** is the *rate* at *which energy is converted from one form to another*
+>[!note]
+> **Power** is the *rate* at *which energy is converted from one form to another*
 
 $$Average\space Power = \frac{Work \space Done}{Time \space Taken} \space P=\frac{W}{t}$$
 $$Average\space Power = \frac{Energy\space Convertedd}{Time\space Taken} \space P=\frac{E}{t}$$
