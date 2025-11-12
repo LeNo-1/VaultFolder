@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - M.O.C/2 -Biology-.md",
+                "file": "00 - M.O.C/00 - M.O.C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 -Biology-"
+              "title": "00 - M.O.C"
             }
           }
         ]
@@ -196,8 +196,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "50 - Daily/2025/11/ 2025-11-08 Sat.md",
+    "20 - Resources/Random Password things.md",
     "00 - M.O.C/00 - M.O.C.md",
+    "00 - M.O.C/2 -Biology-.md",
+    "50 - Daily/2025/11/ 2025-11-08 Sat.md",
     "50 - Daily/2025/11/ 2025-11-06 Thu.md",
     "99 - Meta/Bases/Daily.base",
     "Projectiles.md",
@@ -223,8 +225,6 @@
     "{{yesterday}}.md",
     "99 - Meta/Tasknotes/Study.md",
     "50 - Daily/2025/10/ 2025-10-29 Wed.md",
-    "99 - Meta/Tasknotes/Study for.md",
-    "00 - M.O.C/8 -Spanish-.md",
     "Task.base",
     "99 - Meta/TaskNotes",
     "50 - Daily/2025/10",
