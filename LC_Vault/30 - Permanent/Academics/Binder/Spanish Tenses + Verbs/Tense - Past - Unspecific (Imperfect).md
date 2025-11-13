@@ -13,7 +13,7 @@
 
 |                     | **Ser** | **ir** | **Ver** |
 | ------------------- | ------- | ------ | ------- |
-| yo                  | era     | iba    | veia    |
+| yo                  | era     | i asba | veia    |
 | tú                  | eras    | ibas   | veias   |
 | él/ella/usted       | era     | iba    | veia    |
 | nosotros            | eramos  | ibamos | veiamos |

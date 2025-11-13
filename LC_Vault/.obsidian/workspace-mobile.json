@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - M.O.C/00 - M.O.C.md",
+                "file": "50 - Daily/2025/11/ 2025-11-13 Thu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - M.O.C"
+              "title": "2025-11-13 Thu"
             }
           }
         ]
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Projectiles.md",
+            "file": "50 - Daily/2025/11/ 2025-11-13 Thu.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -153,19 +153,9 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
-      },
-      {
-        "id": "6fbf4ca6bca5b1c4",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "lucide-ghost",
-          "title": "git-view"
-        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +186,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "20 - Resources/Random Password things.md",
+    "50 - Daily/2025/11/ 2025-11-13 Thu.md",
+    "99 - Meta/Tasknotes/Irish grinds hw.md",
+    "99 - Meta/Tasknotes/Spanish and Irish oral.md",
+    "99 - Meta/Tasknotes/English Q a.md",
     "00 - M.O.C/00 - M.O.C.md",
+    "30 - Permanent/Academics/Binder/Spanish Tenses + Verbs/Tense - Past - Unspecific (Imperfect).md",
+    "00 - M.O.C/8 -Spanish-.md",
+    "20 - Resources/Random Password things.md",
     "00 - M.O.C/2 -Biology-.md",
     "50 - Daily/2025/11/ 2025-11-08 Sat.md",
     "50 - Daily/2025/11/ 2025-11-06 Thu.md",
@@ -208,7 +204,6 @@
     "99 - Meta/Tasknotes/🔽 Laptop stand.md",
     "99 - Meta/Bases/Overdue.base",
     "99 - Meta/Bases/Coming up.base",
-    "99 - Meta/Tasknotes/Irish grinds hw.md",
     "Untitled 1.md",
     "50 - Daily/2025/11/ 2025-11-02 Sun.md",
     "30 - Permanent/Academics/Chapters/Work, Energy and Power.md",
@@ -220,11 +215,6 @@
     "Photosynthesis.md",
     "30 - Permanent/Academics/Chapters/Algebra 1.md",
     "50 - Daily/2025/10/ 2025-10-30 Thu.md",
-    "This is a new note.md",
-    "{{tomorrow}}.md",
-    "{{yesterday}}.md",
-    "99 - Meta/Tasknotes/Study.md",
-    "50 - Daily/2025/10/ 2025-10-29 Wed.md",
     "Task.base",
     "99 - Meta/TaskNotes",
     "50 - Daily/2025/10",
