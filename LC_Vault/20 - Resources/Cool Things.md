@@ -1,1 +1,0 @@
-BazziteOs - Linux distro

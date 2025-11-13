@@ -1,5 +1,0 @@
-### Teachers + Faculty
-
-### Other people
-
-
